@@ -1,0 +1,33 @@
+"position","ref","alt","mg1655_position","annotation","needs_confirmation","other explanation"
+227192,"A","[G]",227192,"rRNA",,"HET call in DBG analysis"
+400763,"AG","[A]",400767,"iraP",,"HET call in DBG analysis"
+805411,"AGTT","[A]",806565,"intergenic (junction with lambda prophage?--need to check)",,"not in DBG analysis"
+808692,"T","[C]",,"In lambda prophage",,
+809423,"G","[A]",,"In lambda prophage",,
+809642,"A","[T]",,"In lambda prophage",,
+811018,"C","[T]",,"In lambda prophage",,
+812610,"A","[G]",,"In lambda prophage",,
+814950,"C","[T]",,"In lambda prophage",,
+815265,"T","[C]",,"In lambda prophage",,
+815307,"A","[G]",,"In lambda prophage",,
+817638,"C","[CA]",,"deleted by lambda prophage (junction with lambda prophage?--need to check)",1,
+939610,"GA","[G]",931555,"intergenic (unknown)",,"HET call in DBG analysis"
+1257894,"G","[GC]",1249847,"dhaK",,"HET call in DBG analysis"
+1717498,"A","[AC]",1710536,"intergenic (SIR16.17b?)",,"HET call in DBG analysis"
+1855785,"TC","[T]",1848829,"intergenic (unknown)",,"HET call in DBG analysis"
+2106838,"G","[A]",2099881,"intergenic (next to IS element)",,"HET call in DBG analysis"
+2605573,"A","[AC]",2598626,"bcp",,"HET call in DBG analysis"
+2770754,"G","[GCC]",2763809,"next to predicted prophage",,"HET call in DBG analysis"
+2862100,"A","[AG]",2855158,"in DmutS:zeoR",1,
+2862133,"C","[T]",,"in DmutS:zeoR",,
+2862179,"T","[C]",,"in DmutS:zeoR",,
+2862479,"CG","[AA]",,"in DmutS:zeoR",,
+2862556,"GCGGCCC","[CGGCCCG]",,"in DmutS:zeoR",,
+2862571,"C","[G]",,"in DmutS:zeoR",,
+2862589,"C","[T]",,"in DmutS:zeoR",,
+2862862,"T","[TC]",,"in mutS (junction with DmutS:zeoR?)",1,
+3242601,"C","[CGG]",3238999,"sstT",,"HET call in DBG analysis"
+3744259,"A","[AT]",3740654,"intergenic (SIR30.31i?)",1,"not in DBG analysis"
+3744857,"C","[T]",,"intergenic (SIR30.31i?)",,
+3745491,"A","[C]",,"intergenic (SIR30.31i?)",,
+4299274,"A","[ACG]",4294403,"repetitive region",,"HET call in DBG analysis"

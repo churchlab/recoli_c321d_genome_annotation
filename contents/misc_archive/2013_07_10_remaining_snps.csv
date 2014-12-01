@@ -1,0 +1,20 @@
+"position","ref","alt","investigating","status"
+66659,"CGCTTTG","[CGGCTA]","Repeated region deletion 66564-66733","DONE"
+66670,"T","[G]","same","DONE"
+66672,"C","[G]","same","DONE"
+290546,"C","[T]","Het (come back to it)",
+380702,"C","[T]","Not real (low DP)","DONE"
+566240,"T","[A]","Not real (low DP)","DONE"
+722737,"G","[GT]","Real insertion at MG1655 722743","DONE"
+1656272,"G","[A]","In mobile element, HET but probably real",
+1880026,"GC","[G]","Real deletion of C at MG1655 1873074","DONE"
+1983481,"GGTAATG","[TATAAGTC]","Pindel reports deletion size 777 at MG1655 1976527 1977294","DONE"
+1983489,"CT","[TA]","same","DONE"
+1984242,"CATCACC","[AATTACTTAA]","same","DONE"
+2467855,"TC","[T]","Real deletion at MG1655 2460902","DONE"
+2489866,"A","[ACC]","Real insertion at MG1655 2482913","DONE"
+2772405,"A","[AC]","Real insertion at MG1655 2765460","DONE"
+2909786,"C","[CGGG]","Some sort of insertion or deletion here",
+3240183,"GT","[G]","Real deletion at MG1655 3236577","DONE"
+3972888,"C","[CG]","Looks real, although lots of weird stuff around, 3968049","DONE"
+3983813,"T","[TG]","Real insertion at MG1655 3978974","DONE"

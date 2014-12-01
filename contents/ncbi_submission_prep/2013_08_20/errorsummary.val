@@ -1,0 +1,7 @@
+     2 ERROR:   SEQ_FEAT.InternalStop
+     1 ERROR:   SEQ_FEAT.MissingGeneXref
+     2 ERROR:   SEQ_INST.StopInProtein
+    16 WARNING: SEQ_FEAT.CollidingGeneNames
+     1 WARNING: SEQ_FEAT.MultipleGeneOverlap
+   310 WARNING: SEQ_FEAT.UndesiredProteinName
+    28 INFO:    SEQ_FEAT.ReplicatedGeneSequence
